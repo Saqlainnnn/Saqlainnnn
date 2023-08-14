@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](https://github.com/saqlainnnn/saqlainnnn/blob/main/github-header-image.png)
 
 ## 👀 About me
 I am Mohammed Saqlain, currently pursuing my bachelor's degree majoring in Computer Science and Information Technology from CMR University. I have a great passion for technology with interest in Full Stack Web Development. I love writing code and problem solving.
